@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=type
+comment1.target=Vehicle(java.lang.String)
+comment2.params=
+comment2.target=void\ displayType()
+comment3.params=miles
+comment3.target=double\ calculateFuelCost(int)
+comment4.params=
+comment4.target=int\ maxLoad()
+numComments=5
